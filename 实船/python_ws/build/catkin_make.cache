@@ -1,0 +1,2 @@
+boat
+-DCATKIN_DEVEL_PREFIX=/home/deepdriving/python_ws/devel -DCMAKE_INSTALL_PREFIX=/home/deepdriving/python_ws/install -G Unix Makefiles
