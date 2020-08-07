@@ -1,0 +1,8 @@
+prefix=/home/deepdriving/catkin_ws/install
+
+Name: w_vtg
+Description: Description of w_vtg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/deepdriving/catkin_ws/install/lib 
+Requires: 
