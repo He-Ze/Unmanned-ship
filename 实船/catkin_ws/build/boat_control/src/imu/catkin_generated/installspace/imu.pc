@@ -1,0 +1,8 @@
+prefix=/home/deepdriving/catkin_ws/install
+
+Name: imu
+Description: Description of imu
+Version: 0.0.0
+Cflags: -I/home/deepdriving/catkin_ws/install/include
+Libs: -L/home/deepdriving/catkin_ws/install/lib 
+Requires: roscpp std_msgs gpfpd_msgs gps_common
