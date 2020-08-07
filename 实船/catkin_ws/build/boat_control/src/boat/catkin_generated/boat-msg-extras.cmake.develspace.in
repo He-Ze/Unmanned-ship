@@ -1,0 +1,2 @@
+set(boat_MESSAGE_FILES "/home/deepdriving/catkin_ws/src/boat_control/src/boat/msg/con_boat.msg;/home/deepdriving/catkin_ws/src/boat_control/src/boat/msg/boat_mes.msg")
+set(boat_SERVICE_FILES "")
