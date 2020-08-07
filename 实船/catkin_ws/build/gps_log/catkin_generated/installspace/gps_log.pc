@@ -1,0 +1,8 @@
+prefix=/home/deepdriving/catkin_ws/install
+
+Name: gps_log
+Description: Description of gps_log
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/deepdriving/catkin_ws/install/lib 
+Requires: 
