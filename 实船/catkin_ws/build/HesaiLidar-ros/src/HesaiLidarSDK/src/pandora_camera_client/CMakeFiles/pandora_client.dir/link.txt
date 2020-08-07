@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fPIC   -shared -Wl,-soname,libpandora_client.so -o /home/deepdriving/catkin_ws/devel/lib/libpandora_client.so CMakeFiles/pandora_client.dir/src/pandora_client.c.o 
