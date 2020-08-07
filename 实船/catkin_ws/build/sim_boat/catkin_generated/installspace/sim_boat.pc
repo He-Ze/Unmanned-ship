@@ -1,0 +1,8 @@
+prefix=/home/deepdriving/catkin_ws/install
+
+Name: sim_boat
+Description: Description of sim_boat
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/deepdriving/catkin_ws/install/lib 
+Requires: 
