@@ -1,0 +1,8 @@
+prefix=/home/deepdriving/python_ws/install
+
+Name: boat
+Description: Description of boat
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/deepdriving/python_ws/install/lib 
+Requires: 
