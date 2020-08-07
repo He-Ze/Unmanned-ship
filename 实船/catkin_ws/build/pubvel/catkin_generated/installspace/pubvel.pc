@@ -1,0 +1,8 @@
+prefix=/home/deepdriving/catkin_ws/install
+
+Name: pubvel
+Description: Description of pubvel
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/deepdriving/catkin_ws/install/lib 
+Requires: 
