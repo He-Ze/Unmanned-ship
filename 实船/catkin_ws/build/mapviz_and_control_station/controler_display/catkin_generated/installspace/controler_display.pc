@@ -1,0 +1,8 @@
+prefix=/home/deepdriving/catkin_ws/install
+
+Name: controler_display
+Description: Description of controler_display
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/deepdriving/catkin_ws/install/lib 
+Requires: 
